@@ -1,5 +1,8 @@
 package com.atguigu.juc;
 
+import java.util.ArrayList;
+import java.util.Vector;
+
 @FunctionalInterface
 interface Foo {
 	// public void sayHello();
